@@ -1,0 +1,31 @@
+.body{
+    display: flex;
+}
+.main div{
+   padding: 2px;
+
+    border: red 9px solid;
+}
+.experience{
+    justify-content: space-around;
+    background-color: red;
+    border:green 12px solid;
+    border-color: brown;
+}
+.Background{
+    background-color: blue;
+    border:yellow solid 12px ;
+}
+.Details{
+    background-color: green;
+    border: black 12px solid;
+    border-color: yellowgreen;
+}
+.access{
+    background-color: orangered;
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    border: blue 12px solid;
+    border-color: blue;
+}
